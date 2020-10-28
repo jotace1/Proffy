@@ -2,6 +2,9 @@
 <p align="center">Projeto constrúido durante a semana #2 da Next level week!</p>
 <hr>
 
+<img  src="web/public/Capa.png"  />
+
+
 <h2>Sobre</h2>
 O Proffy é uma plataforma de estudos online, onde alunos e professores poderão entrar em contato.
 
