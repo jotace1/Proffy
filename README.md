@@ -42,7 +42,7 @@ Este projeto ainda se encontra em execução, foi finalizada uma API que já est
 
 1 -> Faça um clone:
 ```
-$ git clone https://github.com/jotace1/nlw-02.git
+$ git clone https://github.com/jotace1/Proffy.git
 ```
 
 2 -> Executando a aplicação:
